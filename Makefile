@@ -1,4 +1,4 @@
-DOCKER_REPO=asaaki/elixir-alpine
+DOCKER_REPO=zeroows/elixir-alpine
 DOCKER_TAG=latest
 DOCKER_IMAGE=$(DOCKER_REPO):$(DOCKER_TAG)
 

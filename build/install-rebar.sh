@@ -4,7 +4,7 @@ set -e
 echo "Installing Rebar ..."
 
 REBAR=rebar
-REBAR_VERSION=2.5.1
+REBAR_VERSION=2.6.1
 REBAR_DOWNLOAD=https://github.com/rebar/rebar/releases/download/$REBAR_VERSION/rebar
 REBAR_BIN_PATH=/usr/local/bin/$REBAR
 
